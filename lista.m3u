@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,BLAZE
-http://194.15.219.168:9981/stream/channelid/171973137
+http://194.15.219.168:9981/stream/channelid/171973137.m3u
 #EXTINF:-1,CANAL ODISEA
-http://194.15.219.168:9981/stream/channelid/1401399798
+http://194.15.219.168:9981/stream/channelid/1401399798.m3u
 #EXTINF:-1,DISCOVERY
-http://194.15.219.168:9981/stream/channelid/1245210169
+http://194.15.219.168:9981/stream/channelid/1245210169.m3u
 #EXTINF:-1,HISTORIA
-http://194.15.219.168:9981/stream/channelid/2054709180
+http://194.15.219.168:9981/stream/channelid/2054709180.m3u
 #EXTINF:-1,NAT GEO HD
 http://194.15.219.168:9981/stream/channelid/1395346999
 #EXTINF:-1,NAT GEO WILD
