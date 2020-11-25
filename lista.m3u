@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,GOL
 http://194.15.219.168:9981/stream/channelid/526533605
 #EXTINF:-1,#VAMOS
@@ -56,7 +55,6 @@ http://194.15.219.168:9981/stream/channelid/976061299
 http://194.15.219.168:9981/stream/channelid/314221190
 #EXTINF:-1,M. LaLiga 10
 http://194.15.219.168:9981/stream/channelid/838402873
-
 #EXTINF:-1,M. ACCI©N HD
 http://194.15.219.168:9981/stream/channelid/1194823079
 #EXTINF:-1,M. Cine Espaæol
@@ -65,9 +63,6 @@ http://194.15.219.168:9981/stream/channelid/47309685
 http://194.15.219.168:9981/stream/channelid/361176692
 #EXTINF:-1,M. SERIES HD
 http://194.15.219.168:9981/stream/channelid/325463987
-#EXTINF:-1,MEZZO LIVE HD
-http://194.15.219.168:9981/stream/channelid/514673096
-
 #EXTINF:-1,LA 1 HD
 http://194.15.219.168:9981/stream/channelid/944944618
 #EXTINF:-1,LA 2
@@ -114,24 +109,6 @@ http://194.15.219.168:9981/stream/channelid/1651381605
 http://194.15.219.168:9981/stream/channelid/685450893
 #EXTINF:-1,PARAMOUNT
 http://194.15.219.168:9981/stream/channelid/2121523814
-#EXTINF:-1,nia HD
-http://194.15.219.168:9981/stream/channelid/2082690861
-#EXTINF:-1,&Roll
-http://194.15.219.168:9981/stream/channelid/1661079369
-#EXTINF:-1,RT Esp HD
-http://194.15.219.168:9981/stream/channelid/53010128
-#EXTINF:-1,RT Esp HD
-http://194.15.219.168:9981/stream/channelid/439661400
-#EXTINF:-1,1HD
-http://194.15.219.168:9981/stream/channelid/1985420510
-#EXTINF:-1,HD
-http://194.15.219.168:9981/stream/channelid/1711776526
-#EXTINF:-1,HD
-http://194.15.219.168:9981/stream/channelid/790074571
-#EXTINF:-1,2
-http://194.15.219.168:9981/stream/channelid/142923953
-#EXTINF:-1,SUNDANCE TV
-http://194.15.219.168:9981/stream/channelid/513950777
 #EXTINF:-1,TCM HD
 http://194.15.219.168:9981/stream/channelid/2024535107
 #EXTINF:-1,TNT HD
@@ -152,12 +129,16 @@ http://194.15.219.168:9981/stream/channelid/422782759
 http://194.15.219.168:9981/stream/channelid/1568976313
 #EXTINF:-1,TOROS HD
 http://194.15.219.168:9981/stream/channelid/874744795
-#EXTINF:-1,BLAZE
-http://194.15.219.168:9981/stream/channelid/171973137
-#EXTINF:-1,CANAL ODISEA
-http://194.15.219.168:9981/stream/channelid/1401399798
 #EXTINF:-1,DISCOVERY
 http://194.15.219.168:9981/stream/channelid/1245210169
+#EXTINF:-1,CALLE 13 HD
+http://194.15.219.168:9981/stream/channelid/1410007154
+#EXTINF:-1,CLAN TVE
+http://194.15.219.168:9981/stream/channelid/1772692487
+#EXTINF:-1,COMEDYCENTRALHD
+http://194.15.219.168:9981/stream/channelid/1812736154
+#EXTINF:-1,COSMO HD
+http://194.15.219.168:9981/stream/channelid/1368400137
 #EXTINF:-1,HISTORIA
 http://194.15.219.168:9981/stream/channelid/2054709180
 #EXTINF:-1,NAT GEO HD
@@ -174,8 +155,30 @@ http://194.15.219.168:9981/stream/channelid/1600024501
 http://194.15.219.168:9981/stream/channelid/272212368
 #EXTINF:-1,EUROSPORT1HD
 http://194.15.219.168:9981/stream/channelid/1344192865
-#EXTINF:-1,CALLE 13 HD
-http://194.15.219.168:9981/stream/channelid/1410007154
+#EXTINF:-1,nia HD
+http://194.15.219.168:9981/stream/channelid/2082690861
+#EXTINF:-1,&Roll
+http://194.15.219.168:9981/stream/channelid/1661079369
+#EXTINF:-1,RT Esp HD
+http://194.15.219.168:9981/stream/channelid/53010128
+#EXTINF:-1,RT Esp HD
+http://194.15.219.168:9981/stream/channelid/439661400
+#EXTINF:-1,1HD
+http://194.15.219.168:9981/stream/channelid/1985420510
+#EXTINF:-1,HD
+http://194.15.219.168:9981/stream/channelid/1711776526
+#EXTINF:-1,HD
+http://194.15.219.168:9981/stream/channelid/790074571
+#EXTINF:-1,2
+http://194.15.219.168:9981/stream/channelid/142923953
+#EXTINF:-1,SUNDANCE TV
+http://194.15.219.168:9981/stream/channelid/513950777
+#EXTINF:-1,BLAZE
+http://194.15.219.168:9981/stream/channelid/171973137
+#EXTINF:-1,CANAL ODISEA
+http://194.15.219.168:9981/stream/channelid/1401399798
+#EXTINF:-1,MEZZO LIVE HD
+http://194.15.219.168:9981/stream/channelid/514673096
 #EXTINF:-1,CANAL COCINA
 http://194.15.219.168:9981/stream/channelid/1831266767
 #EXTINF:-1,CANAL DECASA
@@ -184,12 +187,6 @@ http://194.15.219.168:9981/stream/channelid/1000775982
 http://194.15.219.168:9981/stream/channelid/1170809564
 #EXTINF:-1,CAZAyPESCA HD
 http://194.15.219.168:9981/stream/channelid/1194786189
-#EXTINF:-1,CLAN TVE
-http://194.15.219.168:9981/stream/channelid/1772692487
-#EXTINF:-1,COMEDYCENTRALHD
-http://194.15.219.168:9981/stream/channelid/1812736154
-#EXTINF:-1,COSMO HD
-http://194.15.219.168:9981/stream/channelid/1368400137
 #EXTINF:-1,BABY TV
 http://194.15.219.168:9981/stream/channelid/1257646230
 #EXTINF:-1,CANAL PANDA
